@@ -1,3 +1,4 @@
 # prog
 # añadido
-# Esto debe dar un conflicto
+# error de versión
+
